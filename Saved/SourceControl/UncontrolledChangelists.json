@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/DamageZone/BP_DamageZone.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/UA/JEMMN8J7G8W79JKIB5UCN6.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TQ/RP2FCELKUWP2NYDUSD0SVP.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/UI/WBP_PlayerHUD.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/Input/IA_Sprint.uasset",
+				"C:/Users/user/Documents/Unreal Projects/widkkt/Content/Input/IMC_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.8/Engine/Content/EditorBlueprintResources/StandardMacros.uasset"
+			]
+		}
+	]
+}
